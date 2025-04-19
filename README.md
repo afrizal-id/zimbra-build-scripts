@@ -69,6 +69,7 @@ now you can run the script.
 A help parameter ```--help``` has been added to the script so you can reference it to find out what steps need to be done to build Zimbra.  These saves you from having to reference this readme file.  It summarises the steps required, to make sure that you have uploaded an SSH key to your GitHub profile, that any other version of Java has been removed from your system prior to installing dependencies and building Zimbra.
 
 ```
+cd zimbra-build-scripts
 ./zimbra-build-helper.sh --help
 
 Zimbra Build Helper script!
